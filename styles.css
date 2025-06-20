@@ -28,3 +28,13 @@ img {
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
+
+input {
+    background-color: red;  /* Sets the background color to red */
+    color: white;           /* Sets the text color to white for readability */
+    padding: 15px 80px;     /* Increases padding for a larger button */
+    font-size: 20px;        /* Increases font size for bigger text */
+    border: none;           /* Removes default button border */
+    border-radius: 5px;     /* Rounds the corners slightly */
+    cursor: pointer;        /* Changes cursor to pointer on hover */
+}
